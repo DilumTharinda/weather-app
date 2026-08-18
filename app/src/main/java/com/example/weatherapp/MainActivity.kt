@@ -12,6 +12,8 @@ import java.io.IOException
  * Handles user input for city name, fetches weather data using Retrofit,
  * and displays the results or error messages.
  */
+
+// Implemented core logic, API data binding and error handling for MainActivity by Person 3
 class MainActivity : AppCompatActivity() {
 
     private val apiKey = "fca6af1b9fd19f8d4c68ffc0ee026fc2" // <-- put your OpenWeatherMap key here
